@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: SeanRigo.Net
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
